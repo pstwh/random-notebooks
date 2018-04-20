@@ -1,0 +1,927 @@
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 1 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          13.988     (Insuf)    12.290     17.057         15    
+ATM Processo.Queue.WaitingTime              .00000     (Insuf)    .00000     .00000          3    
+Caixas.Queue.WaitingTime                    .73493     (Insuf)    .00000     3.2701         18    
+Janela Caixa drive Thru.Queue.WaitingTime   7.3100     (Insuf)    .00000     15.626          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .58293     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .58293     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .95000     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .95000     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .52141     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .52141     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .39444     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .39444     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .12964     (Insuf)    .00000     2.0000     2.0000    
+Caixas.Queue.NumberInQueue                  .27013     (Insuf)    .00000     2.0000     2.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .72753     (Insuf)    .00000     2.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            13.988    
+Clientes Fila Caixas                        .27013    
+Pedro.NumberSeized                          9.0000    
+Pedro.ScheduledUtilization                  .58293    
+Caixa Drive trhu.NumberSeized               5.0000    
+Caixa Drive trhu.ScheduledUtilization       .95000    
+Maria.NumberSeized                          9.0000    
+Maria.ScheduledUtilization                  .52141    
+Maquina ATM.NumberSeized                    3.0000    
+Maquina ATM.ScheduledUtilization            .39444    
+
+Iniciando replicação 2 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 2 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          18.139     (Insuf)    11.471     26.360         23    
+ATM Processo.Queue.WaitingTime              .62216     (Insuf)    .00000     1.8664          3    
+Caixas.Queue.WaitingTime                    5.7807     (Insuf)    .00000     13.578         25    
+Janela Caixa drive Thru.Queue.WaitingTime   4.2124     (Insuf)    .00000     12.637          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .81621     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .81621     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .58628     (Insuf)    .00000     1.0000     .00000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .58628     (Insuf)    .00000     1.0000     .00000    
+Maria.NumberBusy                            .83358     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .83358     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .39071     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .39071     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .03111     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  2.8692     (Insuf)    .00000     8.0000     2.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .21062     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            18.139    
+Clientes Fila Caixas                        2.8692    
+Pedro.NumberSeized                          12.000    
+Pedro.ScheduledUtilization                  .81621    
+Caixa Drive trhu.NumberSeized               3.0000    
+Caixa Drive trhu.ScheduledUtilization       .58628    
+Maria.NumberSeized                          13.000    
+Maria.ScheduledUtilization                  .83358    
+Maquina ATM.NumberSeized                    3.0000    
+Maquina ATM.ScheduledUtilization            .39071    
+
+Iniciando replicação 3 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 3 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          15.152     (Insuf)    9.9452     19.148         24    
+ATM Processo.Queue.WaitingTime              4.4390     (Insuf)    .00000     8.4316          6    
+Caixas.Queue.WaitingTime                    1.9892     (Insuf)    .00000     5.9075         27    
+Janela Caixa drive Thru.Queue.WaitingTime   3.1913     (Insuf)    .00000     12.383          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .80113     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .80113     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .85346     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .85346     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .86879     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .86879     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .85151     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .85151     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .56722     (Insuf)    .00000     2.0000     1.0000    
+Caixas.Queue.NumberInQueue                  .90885     (Insuf)    .00000     4.0000     2.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .31914     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            15.152    
+Clientes Fila Caixas                        .90885    
+Pedro.NumberSeized                          14.000    
+Pedro.ScheduledUtilization                  .80113    
+Caixa Drive trhu.NumberSeized               6.0000    
+Caixa Drive trhu.ScheduledUtilization       .85346    
+Maria.NumberSeized                          13.000    
+Maria.ScheduledUtilization                  .86879    
+Maquina ATM.NumberSeized                    6.0000    
+Maquina ATM.ScheduledUtilization            .85151    
+
+Iniciando replicação 4 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 4 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          14.645     (Insuf)    12.141     17.734         23    
+ATM Processo.Queue.WaitingTime              1.4628     (Insuf)    .00000     4.3656          6    
+Caixas.Queue.WaitingTime                    1.5995     (Insuf)    .00000     5.0039         25    
+Janela Caixa drive Thru.Queue.WaitingTime   4.7200     (Insuf)    .00000     14.160          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .81267     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .81267     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .48482     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .48482     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .77132     (Insuf)    .00000     1.0000     .00000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .77132     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberBusy                      .85749     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .85749     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .14629     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  .66647     (Insuf)    .00000     3.0000     .00000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .26968     (Insuf)    .00000     1.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            14.645    
+Clientes Fila Caixas                        .66647    
+Pedro.NumberSeized                          13.000    
+Pedro.ScheduledUtilization                  .81267    
+Caixa Drive trhu.NumberSeized               3.0000    
+Caixa Drive trhu.ScheduledUtilization       .48482    
+Maria.NumberSeized                          12.000    
+Maria.ScheduledUtilization                  .77132    
+Maquina ATM.NumberSeized                    6.0000    
+Maquina ATM.ScheduledUtilization            .85749    
+
+Iniciando replicação 5 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 5 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          22.804     (Insuf)    12.585     29.729         25    
+ATM Processo.Queue.WaitingTime              2.8218     (Insuf)    .00000     7.2031          5    
+Caixas.Queue.WaitingTime                    9.8115     (Insuf)    .00000     17.612         29    
+Janela Caixa drive Thru.Queue.WaitingTime   9.7623     (Insuf)    .00000     27.370          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .90772     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .90772     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .79245     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .79245     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .88980     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .88980     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .69784     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .69784     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .23515     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  5.7855     (Insuf)    .00000     10.000     9.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  2.1365     (Insuf)    .00000     4.0000     4.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            22.804    
+Clientes Fila Caixas                        5.7855    
+Pedro.NumberSeized                          14.000    
+Pedro.ScheduledUtilization                  .90772    
+Caixa Drive trhu.NumberSeized               4.0000    
+Caixa Drive trhu.ScheduledUtilization       .79245    
+Maria.NumberSeized                          15.000    
+Maria.ScheduledUtilization                  .88980    
+Maquina ATM.NumberSeized                    5.0000    
+Maquina ATM.ScheduledUtilization            .69784    
+
+Iniciando replicação 6 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 6 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          19.223     (Insuf)    10.829     27.378         24    
+ATM Processo.Queue.WaitingTime              7.2615     (Insuf)    .00000     16.051          6    
+Caixas.Queue.WaitingTime                    6.0485     (Insuf)    .00000     13.610         27    
+Janela Caixa drive Thru.Queue.WaitingTime   4.4167     (Insuf)    .00000     10.048          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .87714     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .87714     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .73336     (Insuf)    .00000     1.0000     .00000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .73336     (Insuf)    .00000     1.0000     .00000    
+Maria.NumberBusy                            .86996     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .86996     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .95000     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .95000     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            1.1374     (Insuf)    .00000     3.0000     3.0000    
+Caixas.Queue.NumberInQueue                  2.8475     (Insuf)    .00000     6.0000     2.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .29445     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            19.223    
+Clientes Fila Caixas                        2.8475    
+Pedro.NumberSeized                          14.000    
+Pedro.ScheduledUtilization                  .87714    
+Caixa Drive trhu.NumberSeized               4.0000    
+Caixa Drive trhu.ScheduledUtilization       .73336    
+Maria.NumberSeized                          13.000    
+Maria.ScheduledUtilization                  .86996    
+Maquina ATM.NumberSeized                    6.0000    
+Maquina ATM.ScheduledUtilization            .95000    
+
+Iniciando replicação 7 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 7 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          17.944     (Insuf)    11.550     22.710         23    
+ATM Processo.Queue.WaitingTime              .27036     (Insuf)    .00000     .81109          3    
+Caixas.Queue.WaitingTime                    4.2505     (Insuf)    .00000     9.1963         26    
+Janela Caixa drive Thru.Queue.WaitingTime   .00000     (Insuf)    .00000     .00000          2    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .83463     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .83463     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .13920     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .13920     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .84210     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .84210     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .48858     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .48858     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .01352     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  1.8419     (Insuf)    .00000     6.0000     .00000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            17.944    
+Clientes Fila Caixas                        1.8419    
+Pedro.NumberSeized                          14.000    
+Pedro.ScheduledUtilization                  .83463    
+Caixa Drive trhu.NumberSeized               2.0000    
+Caixa Drive trhu.ScheduledUtilization       .13920    
+Maria.NumberSeized                          12.000    
+Maria.ScheduledUtilization                  .84210    
+Maquina ATM.NumberSeized                    3.0000    
+Maquina ATM.ScheduledUtilization            .48858    
+
+Iniciando replicação 8 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 8 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          13.517     (Insuf)    11.553     16.056         18    
+ATM Processo.Queue.WaitingTime              1.1269     (Insuf)    .00000     5.6348          5    
+Caixas.Queue.WaitingTime                    .60012     (Insuf)    .00000     2.6660         20    
+Janela Caixa drive Thru.Queue.WaitingTime   9.4335     (Insuf)    .00000     20.784          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .62673     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .62673     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .93115     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .93115     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .68168     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .68168     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .62979     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .62979     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .09391     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  .20004     (Insuf)    .00000     2.0000     .00000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .84909     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            13.517    
+Clientes Fila Caixas                        .20004    
+Pedro.NumberSeized                          10.000    
+Pedro.ScheduledUtilization                  .62673    
+Caixa Drive trhu.NumberSeized               4.0000    
+Caixa Drive trhu.ScheduledUtilization       .93115    
+Maria.NumberSeized                          10.000    
+Maria.ScheduledUtilization                  .68168    
+Maquina ATM.NumberSeized                    5.0000    
+Maquina ATM.ScheduledUtilization            .62979    
+
+Iniciando replicação 9 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 9 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          15.073     (Insuf)    11.280     21.960         23    
+ATM Processo.Queue.WaitingTime              1.4745     (Insuf)    .00000     5.8982          4    
+Caixas.Queue.WaitingTime                    3.2308     (Insuf)    .00000     10.820         26    
+Janela Caixa drive Thru.Queue.WaitingTime   6.0281     (Insuf)    .00000     14.630          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .82371     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .82371     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .78209     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .78209     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .82069     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .82069     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .64083     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .64083     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .09830     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  2.0211     (Insuf)    .00000     7.0000     5.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .50235     (Insuf)    .00000     2.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            15.073    
+Clientes Fila Caixas                        2.0211    
+Pedro.NumberSeized                          14.000    
+Pedro.ScheduledUtilization                  .82371    
+Caixa Drive trhu.NumberSeized               5.0000    
+Caixa Drive trhu.ScheduledUtilization       .78209    
+Maria.NumberSeized                          12.000    
+Maria.ScheduledUtilization                  .82069    
+Maquina ATM.NumberSeized                    4.0000    
+Maquina ATM.ScheduledUtilization            .64083    
+
+Iniciando replicação 10 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 10 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          16.384     (Insuf)    10.469     22.926         22    
+ATM Processo.Queue.WaitingTime              2.6051     (Insuf)    .00000     7.8154          3    
+Caixas.Queue.WaitingTime                    4.1438     (Insuf)    .00000     9.1342         25    
+Janela Caixa drive Thru.Queue.WaitingTime   10.695     (Insuf)    .00000     14.970          6    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .77308     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .77308     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .95000     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .95000     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .80800     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .80800     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .45051     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .45051     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .13026     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  2.3170     (Insuf)    .00000     7.0000     6.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  1.3539     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            16.384    
+Clientes Fila Caixas                        2.3170    
+Pedro.NumberSeized                          13.000    
+Pedro.ScheduledUtilization                  .77308    
+Caixa Drive trhu.NumberSeized               6.0000    
+Caixa Drive trhu.ScheduledUtilization       .95000    
+Maria.NumberSeized                          12.000    
+Maria.ScheduledUtilization                  .80800    
+Maquina ATM.NumberSeized                    3.0000    
+Maquina ATM.ScheduledUtilization            .45051    
+
+Iniciando replicação 11 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 11 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          16.594     (Insuf)    12.000     22.981         26    
+ATM Processo.Queue.WaitingTime              .52526     (Insuf)    .00000     2.1010          4    
+Caixas.Queue.WaitingTime                    4.7006     (Insuf)    .00000     12.464         29    
+Janela Caixa drive Thru.Queue.WaitingTime   17.674     (Insuf)    .00000     32.673          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .88553     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .88553     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .95000     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .95000     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .88023     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .88023     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .65003     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .65003     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .03502     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  3.3932     (Insuf)    .00000     11.000     9.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  1.8884     (Insuf)    .00000     3.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            16.594    
+Clientes Fila Caixas                        3.3932    
+Pedro.NumberSeized                          15.000    
+Pedro.ScheduledUtilization                  .88553    
+Caixa Drive trhu.NumberSeized               5.0000    
+Caixa Drive trhu.ScheduledUtilization       .95000    
+Maria.NumberSeized                          14.000    
+Maria.ScheduledUtilization                  .88023    
+Maquina ATM.NumberSeized                    4.0000    
+Maquina ATM.ScheduledUtilization            .65003    
+
+Iniciando replicação 12 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 12 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          14.741     (Insuf)    11.297     17.797         19    
+ATM Processo.Queue.WaitingTime              6.5784     (Insuf)    .00000     16.150          4    
+Caixas.Queue.WaitingTime                    2.7996     (Insuf)    .00000     8.7658         23    
+Janela Caixa drive Thru.Queue.WaitingTime   4.2593     (Insuf)    .00000     17.037          4    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .78830     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .78830     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .90859     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .90859     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .70230     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .70230     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .68183     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .68183     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .43856     (Insuf)    .00000     2.0000     .00000    
+Caixas.Queue.NumberInQueue                  1.4816     (Insuf)    .00000     7.0000     7.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .78228     (Insuf)    .00000     2.0000     2.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            14.741    
+Clientes Fila Caixas                        1.4816    
+Pedro.NumberSeized                          13.000    
+Pedro.ScheduledUtilization                  .78830    
+Caixa Drive trhu.NumberSeized               4.0000    
+Caixa Drive trhu.ScheduledUtilization       .90859    
+Maria.NumberSeized                          10.000    
+Maria.ScheduledUtilization                  .70230    
+Maquina ATM.NumberSeized                    4.0000    
+Maquina ATM.ScheduledUtilization            .68183    
+
+Iniciando replicação 13 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 13 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          19.267     (Insuf)    13.302     28.162         22    
+ATM Processo.Queue.WaitingTime              .00000     (Insuf)    .00000     .00000          3    
+Caixas.Queue.WaitingTime                    7.7823     (Insuf)    .00000     18.845         26    
+Janela Caixa drive Thru.Queue.WaitingTime   .00000     (Insuf)    .00000     .00000          3    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .88671     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .88671     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .43254     (Insuf)    .00000     1.0000     .00000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .43254     (Insuf)    .00000     1.0000     .00000    
+Maria.NumberBusy                            .87415     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .87415     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .38776     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .38776     (Insuf)    .00000     1.0000     1.0000    
+ATM Processo.Queue.NumberInQueue            .10535     (Insuf)    .00000     1.0000     1.0000    
+Caixas.Queue.NumberInQueue                  4.9030     (Insuf)    .00000     12.000     12.000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            19.267    
+Clientes Fila Caixas                        4.9030    
+Pedro.NumberSeized                          13.000    
+Pedro.ScheduledUtilization                  .88671    
+Caixa Drive trhu.NumberSeized               3.0000    
+Caixa Drive trhu.ScheduledUtilization       .43254    
+Maria.NumberSeized                          13.000    
+Maria.ScheduledUtilization                  .87415    
+Maquina ATM.NumberSeized                    3.0000    
+Maquina ATM.ScheduledUtilization            .38776    
+
+Iniciando replicação 14 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 14 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          14.142     (Insuf)    11.031     21.130         24    
+ATM Processo.Queue.WaitingTime              7.6534     (Insuf)    .00000     13.268          4    
+Caixas.Queue.WaitingTime                    1.6227     (Insuf)    .00000     5.9601         28    
+Janela Caixa drive Thru.Queue.WaitingTime   3.7975     (Insuf)    .00000     7.3973          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .86440     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .86440     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .85674     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .85674     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .79946     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .79946     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .63232     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .63232     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .51023     (Insuf)    .00000     2.0000     .00000    
+Caixas.Queue.NumberInQueue                  .81079     (Insuf)    .00000     3.0000     2.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .43065     (Insuf)    .00000     2.0000     1.0000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            14.142    
+Clientes Fila Caixas                        .81079    
+Pedro.NumberSeized                          14.000    
+Pedro.ScheduledUtilization                  .86440    
+Caixa Drive trhu.NumberSeized               5.0000    
+Caixa Drive trhu.ScheduledUtilization       .85674    
+Maria.NumberSeized                          14.000    
+Maria.ScheduledUtilization                  .79946    
+Maquina ATM.NumberSeized                    4.0000    
+Maquina ATM.ScheduledUtilization            .63232    
+
+Iniciando replicação 15 de 15
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                                  Sumário para Replicação 15 de 15
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+Replicação terminada no tempo de      : 60.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Tempo trans Caixas                          16.251     (Insuf)    11.613     20.991         22    
+ATM Processo.Queue.WaitingTime              1.3314     (Insuf)    .00000     5.3257          4    
+Caixas.Queue.WaitingTime                    3.4846     (Insuf)    .00000     9.2409         25    
+Janela Caixa drive Thru.Queue.WaitingTime   3.1057     (Insuf)    .00000     8.1155          5    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Pedro.NumberBusy                            .84839     (Insuf)    .00000     1.0000     1.0000    
+Pedro.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Pedro.Utilization                           .84839     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberBusy                 .95000     (Insuf)    .00000     1.0000     1.0000    
+Caixa Drive trhu.NumberScheduled            1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Caixa Drive trhu.Utilization                .95000     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberBusy                            .80375     (Insuf)    .00000     1.0000     1.0000    
+Maria.NumberScheduled                       1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maria.Utilization                           .80375     (Insuf)    .00000     1.0000     1.0000    
+Maquina ATM.NumberBusy                      .59049     (Insuf)    .00000     1.0000     .00000    
+Maquina ATM.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Maquina ATM.Utilization                     .59049     (Insuf)    .00000     1.0000     .00000    
+ATM Processo.Queue.NumberInQueue            .08876     (Insuf)    .00000     1.0000     .00000    
+Caixas.Queue.NumberInQueue                  1.7065     (Insuf)    .00000     5.0000     5.0000    
+Janela Caixa drive Thru.Queue.NumberInQueu  .25881     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Tempo nos Caixas                            16.251    
+Clientes Fila Caixas                        1.7065    
+Pedro.NumberSeized                          13.000    
+Pedro.ScheduledUtilization                  .84839    
+Caixa Drive trhu.NumberSeized               5.0000    
+Caixa Drive trhu.ScheduledUtilization       .95000    
+Maria.NumberSeized                          12.000    
+Maria.ScheduledUtilization                  .80375    
+Maquina ATM.NumberSeized                    4.0000    
+Maquina ATM.ScheduledUtilization            .59049    
+
+
+                                      ARENA Simulation Results
+                                Usuário do Windows - License: STUDENT
+
+                              Resumo de resultados para 15 Replicações
+
+Projeto: Banking Transactions                                        Data da execução : 4/20/2018
+Analista: Systems Modeling                                            Data de revisão do modelo: 4/20/2018
+
+
+                                             RESULTADOS
+
+Identificador                                 Média    Meia-largura Mínima    Maximo # de Replicações
+___________________________________________________________________________________________________
+
+Tempo nos Caixas                            16.524     1.4105     13.517     22.804     15
+Clientes Fila Caixas                        2.1348     .90032     .20004     5.7855     15
+Pedro.NumberSeized                          13.000     .88811     9.0000     15.000     15
+Pedro.ScheduledUtilization                  .80862     .05084     .58293     .90772     15
+Caixa Drive trhu.NumberSeized               4.2666     .64407     2.0000     6.0000     15
+Caixa Drive trhu.ScheduledUtilization       .75338     .13354     .13920     .95000     15
+Maria.NumberSeized                          12.266     .89955     9.0000     15.000     15
+Maria.ScheduledUtilization                  .79782     .05437     .52141     .88980     15
+Maquina ATM.NumberSeized                    4.2000     .63493     3.0000     6.0000     15
+Maquina ATM.ScheduledUtilization            .61961     .09758     .38776     .95000     15
+
+Tempo executando a simulação: 0.02 minutos.
+Simulação completada.
